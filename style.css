@@ -1,0 +1,51 @@
+body {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-size: 21px;
+  font-weight: 300;
+}
+
+.container {
+  width: 570px;
+  margin: 0 auto;
+}
+
+h1,
+h2 {
+  font-weight: 300;
+}
+.h1-sophie {
+  font-weight: 900;
+  font-style: normal;
+  font-size: 80px;
+}
+h1 {
+  font-size: 60px;
+  font-weight: 200;
+}
+
+h2 {
+  font-size: 42px;
+}
+.h2-article {
+  font-weight: 900;
+}
+.h2-work {
+  font-size: 60px;
+  font-weight: 900;
+}
+
+h3 {
+  font-size: 36px;
+  font-weight: 900;
+}
+
+.small-text {
+  font-size: 16px;
+}
+.continue-link:link {
+  color: #99d930;
+}
+.continue-link:hover {
+  color: #131313;
+}
